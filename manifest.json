@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Odoo Toggle Debug",
+    "version": "0.0.0.1",
+    "description": "Extension for toggle Odoo Debug mode",
+    "permissions": ["tabs","activeTab"],
+    "author": "Jeevachaithanyan Sivanandan",
+    "homepage_url": "https://exjeevanism.com",
+    "action": {
+      "default_popup": "toggle.html",
+      "default_title": "- Click for toggle the debug mode",
+      "default_icon": {
+        "64": "images/icon64.png",
+        "128": "images/icon128.png"
+      }
+    },
+    "icons": {
+      "64": "images/icon64.png",
+      "128": "images/icon128.png"
+    }
+  }
+  
